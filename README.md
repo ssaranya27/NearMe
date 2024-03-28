@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date: 24/03/2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -174,7 +174,7 @@ fort.html
 
 ![alt text](fortpark.png)
 
-![alt text](church.png)
+![alt text](<Screenshot 2024-03-28 213326.png>)
 
 ![alt text](fort.png)
 
