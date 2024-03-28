@@ -168,7 +168,7 @@ fort.html
 
 ![alt text](map.png)
 
-![alt text](]bazar.png)
+![alt text](bazar.png)
 
 ![alt text](periyarpark.png)
 
